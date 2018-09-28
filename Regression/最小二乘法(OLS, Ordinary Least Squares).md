@@ -1,5 +1,6 @@
 
 # 最小二乘法（Ordinary Least Squares，OLS）
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
 
 又称最小平方法，是一种数学优化技术。通过最小化误差的平方和寻找数据的最佳函数匹配。形式如下：
 
